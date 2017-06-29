@@ -1,0 +1,20 @@
+[
+	{
+		"DocRefId": "B.TS1001",
+		"DocDataMap": [
+			{ "GroupBy": "", "Name": "Loan Amount", "Value": "12300000" }, 
+			{ "GroupBy": "", "Name": "Rate", "Value": "9" }, 
+			{ "GroupBy": "", "Name": "Term", "Value": "60" }, 
+			{ "GroupBy": "", "Name": "Payable Emi", "Value": "255327.77" }
+		]
+	},
+	{
+		"DocRefId": "B.TS1002",
+		"DocDataMap": [
+			{ "GroupBy": "", "Name": "Loan Amount", "Value": "40000" }, 
+			{ "GroupBy": "", "Name": "Rate", "Value": "9" }, 
+			{ "GroupBy": "", "Name": "Term", "Value": "36" }, 
+			{ "GroupBy": "", "Name": "Payable Emi", "Value": "1827.39" }
+		]
+	}
+]

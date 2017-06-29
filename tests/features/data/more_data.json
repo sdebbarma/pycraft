@@ -1,0 +1,79 @@
+[
+	{
+		"DocRefId": "B.TS1001",
+		"DocDataMap": [
+			{ "GroupBy": "", "Name": "IMEI", "Value": "990002200000076" }, 
+			{ "GroupBy": "", "Name": "ICCIS", "Value":  "89011702271065450669" }, 
+			{ "GroupBy": "", "Name": "Subscriber Number", "Value":  "" }, 
+			{ "GroupBy": "", "Name": "Product Code", "Value":  "GMSB500MD" }
+		],
+		"DataMapExtension": {}
+	}
+]
+
+
+[
+	{
+		"DocRefId": "B.TS1003",
+		"DataMapParams": [
+			{ "GroupBy": "", "Name": "IMEI", "Value": "990002200000076" }, 
+			{ "GroupBy": "", "Name": "ICCIS", "Value":  "89011702271065450669" }, 
+			{ "GroupBy": "", "Name": "Subscriber Number", "Value":  "" }, 
+			{ "GroupBy": "", "Name": "Product Code", "Value":  "GMSB500MD" }
+		],
+		"DataMapExtension": {}
+	}
+]
+
+[
+	{
+		"DocRefId": "A.TS1001",
+		"DataMapParams": [
+			{ "GroupBy": "", "Name": "IMEI", "Value": "990002200000076" }, 
+			{ "GroupBy": "", "Name": "ICCIS", "Value":  "89011702271065450669" }, 
+			{ "GroupBy": "", "Name": "Subscriber Number", "Value":  "" }, 
+			{ "GroupBy": "", "Name": "Product Code", "Value":  "GMSB500MD" }
+		],
+		"DataMapExtension": {}
+	},
+	{
+		"DocRefId": "A.TS3004",
+		"DataMapParams": [
+			{ "GroupBy": "", "Name": "IMEI", "Value": "990002200000077" }, 
+			{ "GroupBy": "", "Name": "ICCIS", "Value":  "89011702271065450669" }, 
+			{ "GroupBy": "", "Name": "Subscriber Number", "Value":  "" }, 
+			{ "GroupBy": "", "Name": "Product Code", "Value":  "GMSB500MD" }
+		],
+		"DataMapExtension": {}
+	},
+	{
+		"DocRefId": "A.TS2003",
+		"DataMapParams": [
+			{ "GroupBy": "", "Name": "IMEI", "Value": "990002200000078" }, 
+			{ "GroupBy": "", "Name": "ICCIS", "Value":  "89011702271065450669" }, 
+			{ "GroupBy": "", "Name": "Subscriber Number", "Value":  "" }, 
+			{ "GroupBy": "", "Name": "Offsite Code", "Value":  "GMSB500MD" }
+		],
+		"DataMapExtension": {}
+	},
+	{
+		"DocRefId": "B.TS1001",
+		"DataMapParams": [
+			{ "GroupBy": "", "Name": "IMEI", "Value": "990002200000079" }, 
+			{ "GroupBy": "", "Name": "ICCIS", "Value":  "89011702271065450669" }, 
+			{ "GroupBy": "", "Name": "Subscriber Number", "Value":  "" }, 
+			{ "GroupBy": "", "Name": "Offsite Code", "Value":  "" }
+		],
+		"DataMapExtension": {}
+	},
+	{
+		"DocRefId": "B.TS1002",
+		"DataMapParams": [
+			{ "GroupBy": "", "Name": "IMEI", "Value": "990002200000080" }, 
+			{ "GroupBy": "", "Name": "ICCIS", "Value":  "89011702271065450669" }, 
+			{ "GroupBy": "", "Name": "Subscriber Number", "Value":  "" }, 
+			{ "GroupBy": "", "Name": "SOC", "Value":  "SOC B500MD" }
+		],
+		"DataMapExtension": {}
+	}
+]
